@@ -27,7 +27,7 @@
             </Label>
          </top>
          <center>
-            <TextArea fx:id="itemDescription" editable="false" maxWidth="400.0" prefHeight="200.0" prefWidth="200.0" text="Item description" wrapText="true" BorderPane.alignment="CENTER">
+            <TextArea id="desc" fx:id="itemDescription" editable="false" maxWidth="400.0" prefHeight="200.0" prefWidth="200.0" text="Item description" wrapText="true" BorderPane.alignment="CENTER">
                <font>
                   <Font size="18.0" />
                </font>
